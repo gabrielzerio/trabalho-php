@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    background-color: #9db995;
+    
+}
+.titulo{
+    background-color: #616387;
+    width: 100%;
+    text-align: center;
+    margin-top: 70px;
+    font-size: 3rem;
+    color:#9db995 ;
+}
+.opcao-linguagem{
+    margin-top: 60px;
+    font-size: 2rem;
+}
+.bandeiras{
+    margin-top: 70px;
+    display: flex;
+    gap: 20px;
+}
+.bandeiras > a > img{
+    max-width: 60px;
+    ;
+}
