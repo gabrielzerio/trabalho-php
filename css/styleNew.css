@@ -3,7 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+body{
+    font-family: "Helvetica", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
 main{
     display: flex;
     align-items: center;
@@ -13,6 +17,21 @@ main{
     background-color: #9db995;
     
 }
+.empresa-info{
+    font-size: 20px;
+}
+.container{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    max-width: 60%;
+ }
+ .container > a{
+    color: #7088e4;
+    text-decoration: none;
+    font-size: 17px;
+ }
 .titulo{
     background-color: #616387;
     width: 100%;
@@ -32,5 +51,5 @@ main{
 }
 .bandeiras > a > img{
     max-width: 60px;
-    ;
 }
+
