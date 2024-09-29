@@ -19,9 +19,9 @@
         <p class="titulo">Bem vindo ao site Web Design em Foco</p>
         <p class="opcao-linguagem">Escolha o idioma para entrar</p>
         <div class="bandeiras">
-            <a href="./idioma.php?idioma=pt"><img src="./assets/brasilBandeira.png" alt=""></a>
-            <a href="./idioma.php?idioma=en"><img src="./assets/brasilBandeira.png" alt=""></a>
-            <a href="./idioma.php?idioma=es"><img src="./assets/brasilBandeira.png" alt=""></a>
+            <a href="./idioma.php?idioma=pt"><img src="./assets/brasilBandeira.png" alt="Portugues Brasil"></a>
+            <a href="./idioma.php?idioma=en"><img src="./assets/ukBandeira.png" alt="Ingles"></a>
+            <a href="./idioma.php?idioma=es"><img src="./assets/espanhaBandeira.png" alt="Espanhol"></a>
         </div>
     </main>
 </body>
